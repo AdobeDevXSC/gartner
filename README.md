@@ -1,5 +1,8 @@
 # AEM Block Collection
 
+https://main--gartner--adobedevxsc.aem.page/
+https://main--gartner--adobedevxsc.aem.live/
+
 This project provides a foundation for starting an AEM Edge Delivery Services project. It includes many common blocks and features a project might need.
 
 ## DA compatible
