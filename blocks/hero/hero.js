@@ -15,7 +15,7 @@ export default function decorate(block) {
   // Add keydown handler to detect Enter key
   input.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
-      window.location.href = href;
+      window.open(href, '_blank');
     }
   });
 
